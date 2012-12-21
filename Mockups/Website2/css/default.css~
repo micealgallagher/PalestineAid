@@ -1,0 +1,65 @@
+#container{
+	height: 600px;
+}
+
+#spacer{
+	border: 0px solid black;
+	font-size: medium;
+	margin: 0px;
+}
+
+#menu {
+	font-family: "Lucida Grande","DejaVu Sans","Bitstream Vera Sans",Verdana,Arial,sans-serif;
+	border: 0px solid black;
+	background-color: #064771;
+	color: white;
+}
+
+#menu  a, a:link, a:visited, a:active {
+	text-decoration: none;
+	font-weight: bold;
+	color: white;
+}
+
+.last{
+	-moz-border-radius-bottomright: 0px;
+	-moz-border-radius-bottomleft: 30px;
+
+	-webkit-border-bottom-right-radius: 0px;
+	-webkit-border-bottom-left-radius: 30px;
+}
+
+#logo p{
+	font-size: 15px;
+	font-weight: 700;
+	margin-bottom: 0px;
+	color: white;
+}
+
+#name{
+	font-size: 64px;
+	
+}
+
+ul{
+	padding: 3px;
+	margin-bottom: 2px;
+}
+
+li{
+	display: inline;
+	list-style-type: none;
+	padding-right: 1px;
+	font-size: small;
+}
+
+#logo{
+	border: 0px solid black;
+}
+
+#header{
+	background-image: url('../images/header.png');
+	border: 1px solid black;
+	width: 100%;
+	height: 300px;
+}
