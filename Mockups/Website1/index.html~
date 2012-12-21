@@ -11,37 +11,10 @@
 
 <div id="container" class="container_12">
 
-   <div id="side" class="grid_3 alpha">
-		
-		<div id="logo" class="grid_3 alpha">
-			<img src="images/logo.svg" alt="logo" style="width:150px">
-		</div><!-- close logo -->
-   
-   	<div id="menu" class="grid_3 omega">
-			
-			<div id="menuOption" class="grid3 alpha">
-				Option One
-			</div>			
-			<div id="menuOption" class="grid3">
-				Option Two
-			</div>			
-			<div id="menuOption" class="grid3">
-				Option Three
-			</div>			
-			<div id="menuOption" class="grid3">
-				Option Four
-			</div>		
-			<div id="menuOption" class="grid3 omega">
-				Option Five
-			</div>				
-			
-		</div><!-- close menu -->
-   
-   </div> <!-- close side -->
-   
-   <div id="headers" class="grid_9 omega">
-   	Palestine Aid
+   <div id="header" class="grid_12">
+   	Palestine Aids
    </div>
+
 
 </div> <!-- close container -->
 
