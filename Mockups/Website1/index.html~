@@ -5,48 +5,43 @@
 <link rel="stylesheet" href="css/text.css"/>
 <link rel="stylesheet" href="css/default.css"/>
 
-</head>
+</head> 
 
 <body>
 
 <div id="container" class="container_12" style="background: url('images/bg.jpg')">
 
-   <div id="side" class="grid_3">
+   <div id="side" class="grid_3 alpha">
 		
-		<div id="logo" class="grid_3">
+		<div id="logo" class="grid_3 alpha">
 			<img src="images/logo.svg" alt="logo" style="width:220px">
 		</div><!-- close logo -->
    
-   	<div id="menu" class="grid_3">
+   	<div id="menu" class="grid_3 omega">
 			
-		</div><!-- menu logo -->
+			<div id="menuOption" class="grid3 alpha">
+				Option One
+			</div>			
+			<div id="menuOption" class="grid3">
+				Option Two
+			</div>			
+			<div id="menuOption" class="grid3">
+				Option Three
+			</div>			
+			<div id="menuOption" class="grid3">
+				Option Four
+			</div>		
+			<div id="menuOption" class="grid3 omega">
+				Option Five
+			</div>				
+			
+		</div><!-- close menu -->
    
    </div> <!-- close side -->
    
-   <!-- <div id="secondary1" class="grid_3">
-		<p>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).</p>   	
-   </div><!-- close secondary1 -->
-
-	<div id="secondary2" class="grid_3">
-   	<p>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).</p>
-   </div><!-- close secondary2 -->
-
-	<div id="maincontent" class="grid_6">
-   	<p>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).</p>
-   	
-		<div id="col1" class="grid_3 alpha">
-			Here we go Here we go Here we go Here we go Here we go 
-		</div> <!-- close col1 -->   	 
-		
-		<div id="col2" class="grid_3 omega">
-			Here we go Here we go Here we go Here we go Here we go 
-		</div> <!-- close col2 -->
-   	
-   </div><!-- close maincontent2 -->
-   
-   <div id="footer" class="grid_12">
-      <h1>This is the header</h1> 
-   </div> <!-- close footer --> -->
+   <div id="header" class="grid_9 omega">
+   	Palestine Aid
+   </div>
 
 </div> <!-- close container -->
 
