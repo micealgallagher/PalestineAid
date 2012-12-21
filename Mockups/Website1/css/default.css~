@@ -3,6 +3,8 @@
 }
 
 #menuOption{
+
+	width: 80%;
 	border: 1px solid black;
 	font-size: medium;
 	margin-bottom: 10px;
@@ -10,9 +12,26 @@
 }
 
 #logo{
-	margin-left: 10px;
+	
 }
 
 #headers{
-	font-size: x-large;
+	font-size: xx-large;
+	background-image: url('../images/blur.png');
+}
+
+#side{
+	background-image: url('../images/blur.png');
+	
+	-moz-border-radius-bottomright: 0px;
+	-moz-border-radius-bottomleft: 30px;
+
+	-webkit-border-bottom-right-radius: 0px;
+	-webkit-border-bottom-left-radius: 30px;
+}
+
+body {
+	background-color: orange;
+	font-size: xx-large; 
+	background-image: url('../images/bg1.jpg');
 }
