@@ -39,14 +39,14 @@
 				</ul>				
 			</div> <!-- close menu -->			
 			
-			<div id="left" class="grid_6">
-				<div id="logo" class="grid_6">
+			<div id="left" class="grid_6 alpha">
+				<div id="logo" class="grid_6 alpha">
 					<img src="images/logo.png" alt="" />
 					<p>
 						<i>
 						<br>
-						&nbsp;&nbsp;&nbsp;"Be good, be kind, be humane, and charitable; love your fellows;<br>
-						&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;console the afflicted; pardon those who have done you wrong."</i>
+						&nbsp;&nbsp;"Be good, be kind, be humane, and charitable; love your fellows;<br>
+						&nbsp;&nbsp;&nbsp;console the afflicted; pardon those who have done you wrong."</i>
 					</p>
 					<p style="text-align:right">
 						- Maxim Gorky
@@ -54,9 +54,53 @@
 				</div> <!-- close logo -->
 			</div> <!-- close left -->
 			
-			<div id="right" class="grid_6">
-				<div class="grid_6" style="padding: auto 0">
-					Search PalestineAid.co.uk
+			<div id="right" class="grid_6 omega">
+				<div id="searchText" class="grid_5">
+						Search PalestineAid.co.uk
+				</div>
+				<div id="searchTextbox" class="grid_4 " >
+						<input type="text" />
+				</div>
+				<div id="searchButton" class="grid_1" >
+					<img src="images/search-button.png">
+				</div>
+				<div id="searchTable" class="grid_4">
+					<table>
+						<tr>
+							<td>
+								<table summary="" >
+									<tr>
+										<td><input type="radio" name="searchOption" /></td>
+										<td>All</td>
+									</tr>
+									<tr>
+										<td><input type="radio" name="searchOption" /></td>
+										<td>Our Team</td>
+									</tr>
+									<tr>
+										<td><input type="radio" name="searchOption" /></td>
+										<td>Mission</td>
+									</tr>
+								</table>
+							</td>
+						</tr>
+						<tr>
+							<td>
+								<table summary="" >
+										<tr>
+											<td><input type="radio" name="searchOption" /></td>
+											<td>Multimedia</td>
+										</tr>
+										<tr>
+											<td><input type="radio" name="searchOption" /></td>
+											<td>Links</td>
+										</tr>
+									</table>
+							</td>
+						</tr>					
+					
+
+					</table>
 				</div>
 			</div> <!-- close right -->
 			
