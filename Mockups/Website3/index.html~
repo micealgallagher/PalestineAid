@@ -1,0 +1,85 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+  <meta name="generator" content="Bluefish 2.2.2" />
+  <link rel="stylesheet" href="css/960.css" type="text/css" />
+  <link rel="stylesheet" href="css/reset.css" type="text/css" />
+  <link rel="stylesheet" href="css/text.css" type="text/css" />
+  <link rel="stylesheet" href="css/default.css" type="text/css" />
+  <link href='http://fonts.googleapis.com/css?family=Mouse+Memoirs' rel='stylesheet' type='text/css'>
+  <link href='http://fonts.googleapis.com/css?family=Crafty+Girls' rel='stylesheet' type='text/css'>
+  <title></title>
+</head>
+
+<body>
+  <div id="header" class="header" style="padding-top: 40px">
+    <div id="container" class="container_12">
+
+
+      <div id="headerLeft" class="grid_5 alpha">
+        <div id="logo" class="grid_5 alpha">
+          <img src="images/logo.png" alt="" style="width: 400px"/>
+        </div> <!-- close logo -->
+      </div> <!-- close left -->
+      
+      <div id="headerRight" class="grid_7">
+        <div id="menu" class="grid_7 alpha">
+            <ul>
+                <a href="" >Our Team</a>
+              </li>
+              <li>
+                <a href="" >Mission</a>
+              </li>
+              <li>
+                <a href="" >Multimedia</a>
+              </li>
+              <li>
+                <a href="" >Links</a>
+              </li>
+              <li>
+                <a href="" >Donate</a>
+              </li>
+          </ul>				
+          </div> <!-- close menu -->	
+        </div> <!-- close right -->
+        
+        <div id="bottom" class="grid_12 omega">
+        WELCOME
+        </div>        
+      </div> <!-- close container -->      
+    </div> <!-- close header -->
+
+    <div id="body" class="container_12">
+    
+      <div id="" class="grid_4 alpha" style="background-color:;">
+      <img src="images/hanger.png" alt="" style="margin-top:-40px;"/>
+      <div id="" class="grid_4 " style="background-color:#feffcd; margin-left:25px; padding-bottom:20px;; padding-left: 40px; width: 260px">
+      
+        <p>
+                <img src="images/graduate.png" alt="" style="width: 220px" />
+        </p>
+        <p>
+                <img src="images/graduate.png" alt="" style="width: 220px" />
+        </p>
+        </div>
+      </div> <!-- close container -->
+      <div id="middle" class="grid_5">
+      	<p>
+      	Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum vehicula sagittis purus ultricies pulvinar. Maecenas elementum sem vel eros euismod ornare. Nam eu nulla lacus, sit amet interdum lacus. Maecenas at nisi ultrices ipsum iaculis aliquet.
+      	</p>
+      	      	<p>
+      	Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum vehicula sagittis purus ultricies pulvinar. Maecenas elementum sem vel eros euismod ornare. Nam eu nulla lacus, sit amet interdum lacus. Maecenas at nisi ultrices ipsum iaculis aliquet.
+      	</p>
+      </div> <!-- close container -->
+      <div id="" class="grid_3 omega">
+              	<p>
+      	Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum vehicula sagittis purus ultricies pulvinar. Maecenas elementum sem vel eros euismod ornare. Nam eu nulla lacus, sit amet interdum lacus. Maecenas at nisi ultrices ipsum iaculis aliquet.
+      	</p>
+      </div> <!-- close container -->      
+    </div> <!-- close header -->    
+
+
+</body>
+</html>
