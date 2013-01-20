@@ -3,7 +3,6 @@
 
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
-  <meta name="generator" content="Bluefish 2.2.2" />
   <link rel="stylesheet" href="css/960.css" type="text/css" />
   <link rel="stylesheet" href="css/reset.css" type="text/css" />
   <link rel="stylesheet" href="css/text.css" type="text/css" />
@@ -53,33 +52,65 @@
 
     <div id="body" class="container_12">
     
+      <div id="" class="grid_12" style="background-color:;">
+      	<div class="grid_12" id="title">
+      		Welcome to PalestineAid.org.uk
+      	</div>
+      	<div class="grid_12" id="titletext" style="text-align: center">
+	    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum vehicula sagittis purus ultricies pulvinar. Maecenas elementum sem vel eros euismod ornare. Nam eu nulla lacus, sit amet interdum lacus. Maecenas at nisi ultrices ipsum iaculis aliquet.
+      	</div>
+      </div>         
+    
+<div id="" class="grid_12" style="background-color:;">
+		<hr/>      
+      </div>    
+    
       <div id="" class="grid_4 alpha" style="background-color:;">
-      <img src="images/hanger.png" alt="" style="margin-top:-40px;"/>
-      <div id="" class="grid_4 " style="background-color:#feffcd; margin-left:25px; padding-bottom:20px;; padding-left: 40px; width: 260px">
+      	<div class="grid_4 alpha" id="title">
+      		The problem
+      	</div>
+      	<div class="grid_4" id="titleimage">
+      	<img src="images/our_mission.jpg" alt="" style="width: 200px; align:center"/>
+      	</div>
+      	<div class="grid_4" id="titletext">
+	    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum vehicula sagittis purus ultricies pulvinar. Maecenas elementum sem vel eros euismod ornare. Nam eu nulla lacus, sit amet interdum lacus. Maecenas at nisi ultrices ipsum iaculis aliquet.
+      	</div>
+      </div>
       
-        <p>
-                <img src="images/graduate.png" alt="" style="width: 220px" />
-        </p>
-        <p>
-                <img src="images/graduate.png" alt="" style="width: 220px" />
-        </p>
-        </div>
-      </div> <!-- close container -->
-      <div id="middle" class="grid_5">
-      	<p>
-      	Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum vehicula sagittis purus ultricies pulvinar. Maecenas elementum sem vel eros euismod ornare. Nam eu nulla lacus, sit amet interdum lacus. Maecenas at nisi ultrices ipsum iaculis aliquet.
-      	</p>
-      	      	<p>
-      	Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum vehicula sagittis purus ultricies pulvinar. Maecenas elementum sem vel eros euismod ornare. Nam eu nulla lacus, sit amet interdum lacus. Maecenas at nisi ultrices ipsum iaculis aliquet.
-      	</p>
-      </div> <!-- close container -->
-      <div id="" class="grid_3 omega">
-              	<p>
-      	Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum vehicula sagittis purus ultricies pulvinar. Maecenas elementum sem vel eros euismod ornare. Nam eu nulla lacus, sit amet interdum lacus. Maecenas at nisi ultrices ipsum iaculis aliquet.
-      	</p>
-      </div> <!-- close container -->      
-    </div> <!-- close header -->    
-
+      <div id="" class="grid_4" style="">
+      	<div class="grid_4 alpha" id="title">
+      		Our Mission
+      	</div>
+      	<div class="grid_4" id="titleimage">
+      	<img src="images/help.jpg" alt="" style="width: 200px;" />
+      	</div>
+      	<div class="grid_4" id="titletext">
+	    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum vehicula sagittis purus ultricies pulvinar. Maecenas elementum sem vel eros euismod ornare. Nam eu nulla lacus, sit amet interdum lacus. Maecenas at nisi ultrices ipsum iaculis aliquet.
+      	</div>
+      </div>      
+      
+      <div id="" class="grid_4" style="background-color:;">
+      	<div class="grid_4 alpha" id="title">
+      		What we are doing?
+      	</div>
+      	<div class="grid_4" id="titleimage">
+      	<img src="images/calendar.png" alt="" style="width: 200px;"/>
+      	</div>
+      	<div class="grid_4" id="titletext">
+	    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum vehicula sagittis purus ultricies pulvinar. Maecenas elementum sem vel eros euismod ornare. Nam eu nulla lacus, sit amet interdum lacus. Maecenas at nisi ultrices ipsum iaculis aliquet.
+      	</div>
+      </div>      
+      
+       
+    </div> <!-- close header -->
+          <div id="footer" class="footer" style="padding-top: 60px">
+      </div>    
+<!-- table summary="" >
+	  <tr>
+	      <td><img src="images/graduate.png" alt="" /></td>
+	      <td>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum vehicula sagittis purus ultricies pulvinar. Maecenas elementum sem vel eros euismod ornare. Nam eu nulla lacus, sit amet interdum lacus. Maecenas at nisi ultrices ipsum iaculis aliquet.</td>
+	  </tr>
+      	</table> -->
 
 </body>
 </html>
