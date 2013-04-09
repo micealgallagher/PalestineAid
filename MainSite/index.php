@@ -14,6 +14,7 @@ Released   : 20121212
 <head>
 <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
 <?php
+    // Output the current page title in title tag
 	$curPage = get_page();
 	$curPageTitle = $curPage->post_title;
 
@@ -35,6 +36,7 @@ Released   : 20121212
 		<div id="content">
 			<div>
                 <?php 
+                    // Output the content of the page
                     if (have_posts()) : while (have_posts()) : the_post();
                         the_content();
                     endwhile; endif; 

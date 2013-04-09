@@ -4,6 +4,7 @@
         <h2>Site Map</h2>
 		<ul class="style4">
             <?php
+                // Output the pages in menu_order
                 $pages = get_pages(array('parent' => 0, 'sort_column' => 'menu_order'));
                 foreach ($pages as $page) {
 
